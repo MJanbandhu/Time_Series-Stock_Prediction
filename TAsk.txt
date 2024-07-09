@@ -1,0 +1,25 @@
+Spiderweb technologies • 4:41 pm
+Hi Mohit Janbandhu you are shortlisted for this AI Engineer so you have to attempt assignment given below and also given in job description so it is mandatory and as soon as you will submit test assignment more are chances to hire. 
+Assignment Task :
+
+Detailed Time Series Analysis of a Single Stock
+Data Preparation and Exploration: Clean and preprocess historical price data. Conduct exploratory analysis to document initial observations.
+Time Series Decomposition: Apply decomposition techniques to identify trends, seasonality, and residuals.
+Stationarity and Testing: Test for stationarity and apply necessary transformations.
+Forecasting Model Development: Build and validate forecasting models, explaining your choices, parameter tuning, and validation approach.
+Insightful Reporting: Create a detailed report of your analysis, findings, and forecasts.
+Submission Instruction:
+
+Complete the assignment and compile your findings into a detailed report.
+Email your submission to amitgarg87@gmail.com to be considered for this role.
+Requirements:
+
+Bachelor’s or Master’s degree in Computer Science, Data Science, Statistics, or related field.
+Minimum of 2 years of experience in time series analysis, preferably with a focus on financial data.
+Proficient in statistical programming languages (e.g., Python, R) and time series analysis tools.
+Strong understanding of statistical tests, time series decomposition, forecasting models (ARIMA, SARIMA, Prophet, LSTM), and their applications.
+Excellent analytical, problem-solving, and communication skills.
+Ability to document and explain analysis processes, model choices, and insights clearly.
+How to Apply:
+Please submit your resume and the completed assignment as specified above. Highlight your experience in time series analysis, particularly in the context of financial data, and your ability to derive insights from complex datasets.
+
