@@ -16,6 +16,3 @@ Forecasting Model Development: Build and validate forecasting models, explaining
 Insightful Reporting: Create a detailed report of your analysis, findings, and forecasts. 
 
 and Submiting Instruction too.
-
-
-![Untitled](https://github.com/user-attachments/assets/eff33938-2319-4b36-b105-b870f76cf5a0)
